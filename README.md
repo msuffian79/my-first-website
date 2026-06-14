@@ -1,2 +1,1 @@
-# my-first-website
-My very first coding project!
+# Welcome to my website! This is tracked by Git.
